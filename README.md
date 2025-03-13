@@ -1,7 +1,8 @@
+![Komal's Banner](https://github.com/Komal2421/Komal2421/blob/main/github-header-image%20(6).png)
+
 # 👋 Hi, I'm Komal Kumari!  
 🎓 Student at IIEST Shibpur | 💻 Web Development Enthusiast  
 
-![Komal's Banner](https://source.unsplash.com/1600x500/?technology,coding)
 
 ## 🌟 About Me  
 - 🔭 I’m currently exploring **Full Stack Web Development**.  
