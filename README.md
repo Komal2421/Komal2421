@@ -15,15 +15,6 @@
 
 ---
 
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Komal2421&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal2421&layout=compact&theme=radical" height="180px"/>
-</p>
-
----
-
 ## 🎨 Fun Stuff  
 ✨ **Quote I Live By:**  
 *"The best way to predict the future is to create it."* — Abraham Lincoln  
