@@ -38,5 +38,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio-link.com/)  
 
 ---
-![Snake](https://raw.githubusercontent.com/Komal2421/Komal2421/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Komal2421/Komal2421/output/github-contribution-grid-snake-dark.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Komal2421&style=flat-square)
